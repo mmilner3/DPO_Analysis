@@ -1,0 +1,8 @@
+CREATE TABLE reigon_table (
+     store varchar,
+     store_group integer,
+     states VARCHAR,
+     reigon varchar,
+     carrier varchar,
+     PRIMARY KEY (store)
+);
