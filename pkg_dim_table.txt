@@ -1,0 +1,10 @@
+CCREATE TABLE pkg_dim_table (
+     Tracking_num varchar,
+     order_num VARCHAR,
+     pkg_length VARCHAR,
+     pkg_width varchar,
+     pkg_height varchar,
+	 pkg_weight varchar
+     --PRIMARY KEY (Tracking_num)
+);
+); 	
