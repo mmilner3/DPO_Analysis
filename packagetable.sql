@@ -1,4 +1,6 @@
 drop table packages
+drop table pkg_dim_table
+drop table region_table
 
 CREATE TABLE packages (
 actdely_dt DATE,
@@ -43,4 +45,22 @@ uncontrollable_defect VARCHAR (255),
 dpo_delivered_late  VARCHAR (255)
 );
 
-select * from packages
+
+CREATE TABLE pkg_dim_table (
+     Tracking_num varchar,
+     order_num VARCHAR,
+     pkg_length VARCHAR,
+     pkg_width varchar,
+     pkg_height varchar,
+	 pkg_weight varchar
+     --PRIMARY KEY (Tracking_num)
+);
+
+CREATE TABLE region_table (
+     store varchar,
+     store_group varchar,
+     states VARCHAR,
+     reigon varchar,
+     carrier varchar
+    
+);
