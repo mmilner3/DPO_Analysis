@@ -24,3 +24,7 @@ We are still working at this time to load the data in to the regression models. 
 We have completed a postrges data base that leverages 3 tables to generate information for our machine learning model and our dashboard. 
 
 See the SQL used to build the database [here](https://github.com/mmilner3/DPO_Analysis/blob/main/RDB_Table_setup.sql)
+
+## Google Presentation 
+https://docs.google.com/presentation/d/1yiNRdrhO-vmRRl3IzcRJKIt0xE--Ec7ET0RXLbgVnTg/edit?usp=sharing
+
