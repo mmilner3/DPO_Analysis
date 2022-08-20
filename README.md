@@ -18,9 +18,15 @@ We will leverage Zoom andgit hub to work on this project as a group. Internally 
 We are still working at this time to load the data in to the regression models. please see provisionary code for loading this data in to the model [here](https://github.com/mmilner3/DPO_Analysis/blob/Shawn/Clean_DPO_Table.ipynb)
 
 
-
-
 ## Provisionary Data Base
 We have completed a postrges data base that leverages 3 tables to generate information for our machine learning model and our dashboard. 
 
 See the SQL used to build the database [here](https://github.com/mmilner3/DPO_Analysis/blob/main/RDB_Table_setup.sql)
+
+## Google Presentation 
+https://docs.google.com/presentation/d/1yiNRdrhO-vmRRl3IzcRJKIt0xE--Ec7ET0RXLbgVnTg/edit?usp=sharing
+
+## Tableau dash mock up 
+We have decided to leverage a tableau dashboard to allow our users to see individual areas of concern within their portion of business owenrship. we will take information provided by the machine learning model to determin factors that the cards in the tableau dash will break down. we will also work in a interactive map that can be used to understand trends by geographic location
+
+![image](https://github.com/mmilner3/DPO_Analysis/blob/main/Dashboard%20storyboard.jpg)
