@@ -34,3 +34,6 @@ We have decided to leverage a tableau dashboard to allow our users to see indivi
 ## Colab Link
 https://colab.research.google.com/drive/1UVcdJRRuWpMbytdppCmWvcI5JMKzTNJ_?usp=sharing
 
+## S3 Link
+https://s3.console.aws.amazon.com/s3/buckets/dpodata?region=us-west-2&tab=objects
+
