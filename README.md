@@ -29,4 +29,6 @@ https://docs.google.com/presentation/d/1yiNRdrhO-vmRRl3IzcRJKIt0xE--Ec7ET0RXLbgV
 ## Tableau dash mock up 
 We have decided to leverage a tableau dashboard to allow our users to see individual areas of concern within their portion of business owenrship. we will take information provided by the machine learning model to determin factors that the cards in the tableau dash will break down. we will also work in a interactive map that can be used to understand trends by geographic location
 
+Link to Tableau Dashboard: https://public.tableau.com/app/profile/matt6472/viz/FInalProject_16613024520110/Presentation?publish=yes 
+
 ![image](https://github.com/mmilner3/DPO_Analysis/blob/main/Dashboard%20storyboard.jpg)
